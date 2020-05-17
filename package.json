@@ -1,0 +1,22 @@
+{
+  "name": "compute-number-of-distinct-values-in-an-array",
+  "version": "1.0.0",
+  "description": "distinct value",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edgar256/Compute-number-of-distinct-values-in-an-array.git"
+  },
+  "author": "Edgar Tinkamanyire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edgar256/Compute-number-of-distinct-values-in-an-array/issues"
+  },
+  "homepage": "https://github.com/Edgar256/Compute-number-of-distinct-values-in-an-array#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
